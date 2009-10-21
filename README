@@ -1,0 +1,7 @@
+Drupal Performance Testing Suite.
+To run:
+1. Open up the jmx file
+2. Enable either Drupal-6 or Drupal-7 config sections (not both).
+3. Edit the config section and change the host to reflect your target machine
+4. (optional) change the output location in the general test configuration
+5. (optional) run jmetergraph.pl on the *summary.xml files to generate charts.
